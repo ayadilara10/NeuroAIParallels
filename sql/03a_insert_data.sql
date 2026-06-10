@@ -1,6 +1,6 @@
 -- ============================================================
 -- NEURO-AI PARALLELS DATABASE
--- Phase 5: DML - INSERT DATA (Part 1 of 2)
+-- Phase 3a: DML - INSERT DATA (Part 1 of 2)
 -- Run this block FIRST, then run phase5_insert_continuation.sql
 -- Add SET DEFINE OFF at the top to prevent & substitution errors
 -- ============================================================
@@ -258,6 +258,6 @@ INSERT INTO paper (title, publication_year, journal, doi, methodology_type, ai_a
 
 -- ============================================================
 -- END OF PART 1
--- Continue with phase5_insert_continuation.sql
+-- Continue with phase3b_insert_continuation.sql
 -- That file begins with the Output & Generation papers (9 papers)
 -- ============================================================
