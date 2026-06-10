@@ -1,6 +1,6 @@
 -- ============================================================
 -- NEURO-AI PARALLELS DATABASE
--- Phase 6: DML - UPDATE and DELETE
+-- Phase 4: DML - UPDATE and DELETE
 -- Run each block SEPARATELY
 -- ============================================================
 
@@ -133,7 +133,7 @@ AND parallel_id = (SELECT parallel_id FROM parallel WHERE parallel_name = 'Motor
 
 
 -- ============================================================
--- END OF PHASE 6
+-- END OF PHASE 4
 --   1. SELECT before UPDATE 1 and 2 (current state)
 --   2. UPDATE 1 confirmation
 --   3. UPDATE 2 confirmation
