@@ -1,5 +1,5 @@
 -- ============================================================
--- PHASE 5 CONTINUATION
+-- PHASE 3b CONTINUATION
 -- Paste this block AFTER the previous phase5_insert_data.sql
 -- Starts from Output & Generation papers
 -- ============================================================
@@ -233,6 +233,6 @@ INSERT INTO paper_funding (paper_id, funding_id, grant_year) SELECT p.paper_id, 
 
 
 -- ============================================================
--- END OF PHASE 5 - INSERT DATA COMPLETE
+-- END OF PHASE 3b - INSERT DATA COMPLETE
 -- Total rows inserted across all 14 tables: ~370
 -- ============================================================
